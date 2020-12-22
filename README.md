@@ -33,7 +33,8 @@
 ## Results
 	
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-  The following conclusion can be drawn based on my analysis of the dataset
+
+  The following conclusion can be drawn based on my analysis of the dataset:
   
   1. That the highest number of projects belong to entertainment genre particularly to theatre, music, and film & video category.
   
